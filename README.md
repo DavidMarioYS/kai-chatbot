@@ -201,7 +201,7 @@ cd kai-chatbot
 ```
 kai-chatbot/
 │
-├── simplebot.html          # Main file (All-in-one!)
+├── index.html          # Main file (All-in-one!)
 │
 └── README.md               # You are here 😊
 ```
